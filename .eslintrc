@@ -25,7 +25,6 @@
     "no-multiple-empty-lines": 2,
     "indent": [2, 2],
     "key-spacing": [2, {"beforeColon": false, "afterColon": true}],
-    "linebreak-style": [2, "unix"],
     "new-parens": 2,
     "no-trailing-spaces": 2,
     "semi-spacing": 2,
